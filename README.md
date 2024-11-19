@@ -22,6 +22,8 @@ echo "Nama : $nama";
 
 ![image](https://github.com/user-attachments/assets/a7399fa9-6354-4f57-a39e-2abff99b28af)
 
+![image](https://github.com/user-attachments/assets/e626345e-2a73-4b85-80b7-8209f2064249)
+
 ### langkah 2
 <?php
 echo 'Selamat Datang ' . $_GET['nama'];
