@@ -1,24 +1,24 @@
 # Lab7Web
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>PHP Dasar</title>
-</head>
-<body>
-<h1>Belajar PHP Dasar</h1>
-<?php
-echo "Hello World";
-?>
-</body>
-</html>
-<?php
-$nim = "31231051";
-$nama = 'Irsyad';
-echo "NIM : " . $nim . "<br>";
-echo "Nama : $nama";
-?>
+                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                <meta charset="UTF-8">
+                <title>PHP Dasar</title>
+                </head>
+                <body>
+                <h1>Belajar PHP Dasar</h1>
+                <?php
+                echo "Hello World";
+                ?>
+                </body>
+                </html>
+                <?php
+                $nim = "31231051";
+                $nama = 'Irsyad';
+                echo "NIM : " . $nim . "<br>";
+                echo "Nama : $nama";
+                ?>
 
 ![image](https://github.com/user-attachments/assets/a7399fa9-6354-4f57-a39e-2abff99b28af)
 
