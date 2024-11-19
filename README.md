@@ -22,7 +22,6 @@ echo "Nama : $nama";
 
 ![image](https://github.com/user-attachments/assets/a7399fa9-6354-4f57-a39e-2abff99b28af)
 
-![image](https://github.com/user-attachments/assets/e626345e-2a73-4b85-80b7-8209f2064249)
 
 ### langkah 2
 <?php
@@ -30,6 +29,9 @@ echo 'Selamat Datang ' . $_GET['nama'];
 ?>
 http://localhost/lab7_php_dasar/latihan2.php?nama=Irsyad
 ![image](https://github.com/user-attachments/assets/c6b01ce2-5052-40a2-b887-70eace0a301a)
+
+![image](https://github.com/user-attachments/assets/3ecc87ac-518a-41e7-ba49-5b70de052e5e)
+
 
 ### langkah 3
 
